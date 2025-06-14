@@ -1,5 +1,13 @@
 <h2 align="left">Hi 👋! My name is Durga Chandrika and I'm a  zealous learner and proficient programmer..</h2>
 
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since I learned what a computer was<br>📚 I'm currently learning react js<br>🎯 My Goal is to be a independent Woman<br>🎲 Fun fact: I love reading Novels</p>
+
+###
+
 ###
 
 <div align="left">
